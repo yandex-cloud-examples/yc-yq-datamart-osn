@@ -183,7 +183,7 @@ group by day,
 
 - склонируем себе текущий репозиторий, если еще этого не сделали
 ```sh 
-git clone https://pol-edu2.gitlab.yandexcloud.net/dp-solutions/yc-yq-osn
+git clone https://github.com/yandex-cloud-examples/yc-yq-datamart-osn.git
 ```
 
 - добавим дополнительные роли сервисному аккаунту sa-osn для возможности 
